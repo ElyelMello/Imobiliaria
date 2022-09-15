@@ -1,7 +1,7 @@
 
 # Projeto Imobiliária
 
-O projeto é para o processo seletivo para a empresa EstúdioSIS
+O projeto foi desenvolvido durante o processo seletivo feito pela empresa Estudio Sis.
 
 
 ## Stack utilizada
@@ -33,4 +33,12 @@ Edite o arquivo de conexão e insira as suas credenciais nas linhas abaixo
 
 Inicie o servidor e acesse http://localhost
 
+Usuários para testes:
+
+```bash
+    user: administrador@teste.com; senha: 123
+    user: comercial@teste.com; senha: 123
+    user: financeiro@teste.com; senha: 123
+    user: ceo@teste.com; senha: 123
+```
 
