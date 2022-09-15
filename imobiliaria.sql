@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: 15-Set-2022 às 06:47
+-- Generation Time: 15-Set-2022 às 07:14
 -- Versão do servidor: 5.6.20
 -- PHP Version: 5.5.15
 
@@ -111,7 +111,7 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 
 INSERT INTO `usuarios` (`id`, `nome`, `email`, `senha`, `data_nasc`, `nivel`) VALUES
 (13, 'Elyel Teste Senha cripto', 'comercial@teste.com', '$2y$10$ncMJZiZsyCqz1rccQXbL2uRfNF0.i3rm6KgX7R5iJAHooEtTN2Bom', '1996-12-30', 2),
-(15, 'Elyel Mello Da Costa', 'melloelyel@gmail.com', '$2y$10$dCso6WJQvUCuPEx13awufeLGy2b0wIshn9ZA83gN0RHfa1gmHee9y', '1996-12-30', 1),
+(15, 'Elyel Mello Da Costa', 'administrador@teste.com', '$2y$10$dCso6WJQvUCuPEx13awufeLGy2b0wIshn9ZA83gN0RHfa1gmHee9y', '1996-12-30', 1),
 (16, 'ceo', 'ceo@teste.com', '$2y$10$yy9VTWz969EgKNUbc5Y4gOWfHaAhEpPCk1TJ5THF968aeUTwQUsO6', '1996-12-30', 4),
 (17, 'financeiro', 'financeiro@teste.com', '$2y$10$g1zqzP1OMUDeIU4ImuDbz.IBAZMoJxRcT0kAoepdEZ7cEpsJ7T94a', '1996-12-30', 3),
 (19, 'testefinanceiro', 'testef@teste.com', '$2y$10$EStNUL7adZa943y.Gws0nehPWqlPjztgIJ8hIofa1xIpppUbfCAZ6', '1996-12-30', 3);
